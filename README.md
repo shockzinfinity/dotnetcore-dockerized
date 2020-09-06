@@ -1,1 +1,3 @@
-'# dotnetcore-dockerized' 
+# .net core Dockerized
+
+
